@@ -14,6 +14,11 @@ module.exports = {
 			id: 'alexa-clay',
 			firstName: 'Alexa',
 			lastName: 'Clay'
+		},
+		{
+			id: 'andrew-hunt',
+			firstName: 'Andrew',
+			lastName: 'Hunt'
 		}
 	]
 };
